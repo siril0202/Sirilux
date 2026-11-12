@@ -1,19 +1,19 @@
 # Sirilux  
 <div align="center">
-  <img src="assets/banner%20dark.png" width="1000" alt="Convx poster with the words Just Listen and a phone displaying the music player">
-  <h1>Convx</h1>
+  <img src="assets/banner%20dark.png" width="1000" alt="Sirilux poster with the words Just Listen and a phone displaying the music player">
+  <h1>Sirilux</h1>
   <p><strong>An open-source Android music player with a calm, glass-inspired interface.</strong></p>
   <p>
     <a href="https://github.com/siril0202/Sirilux/releases/tag/2.0.4-nightly">
-      <img src="https://img.shields.io/badge/Download-Nightly%202.0.4-5268D8?style=for-the-badge&logo=android&logoColor=white" alt="Download Convx Nightly 2.0.4">
+      <img src="https://img.shields.io/badge/Download-Nightly%202.0.4-5268D8?style=for-the-badge&logo=android&logoColor=white" alt="Download Sirilux Nightly 2.0.4">
     </a>
     <a href="https://github.com/siril0202/Sirilux/releases/latest">
-      <img src="https://img.shields.io/badge/Stable-Outdated-888888?style=for-the-badge&logo=android&logoColor=white" alt="The current stable Convx release is outdated">
+      <img src="https://img.shields.io/badge/Stable-Outdated-888888?style=for-the-badge&logo=android&logoColor=white" alt="The current stable Sirilux release is outdated">
     </a>
   </p>
   <p>
     <a href="https://github.com/siril0202/Sirilux/releases">
-      <img src="https://img.shields.io/github/downloads/siril0202/Sirilux/total?style=for-the-badge&label=total%20downloads&logo=github" alt="Total Convx release downloads">
+      <img src="https://img.shields.io/github/downloads/siril0202/Sirilux/total?style=for-the-badge&label=total%20downloads&logo=github" alt="Total Sirilux release downloads">
     </a>
   </p>
   <p>
@@ -37,13 +37,13 @@
 >
 > The project website is being reworked, so download from GitHub Releases for now.
 
-Convx brings music discovery, playback, lyrics, and your library together in one Android app. It is built with Kotlin, Jetpack Compose, and Media3, with custom Cupertino-style controls and Liquid Glass surfaces.
+Sirilux brings music discovery, playback, lyrics, and your library together in one Android app. It is built with Kotlin, Jetpack Compose, and Media3, with custom Cupertino-style controls and Liquid Glass surfaces.
 
 ## Features
 
 ### Playback
 
-- Browse and stream music through Convx's InnerTube client.
+- Browse and stream music through Sirilux's InnerTube client.
 - Keep listening in the background with notification, lock-screen, and Android Auto controls.
 - Save music for offline listening and manage a local library.
 - Build queues and playlists, set a sleep timer, change playback speed, and use the equalizer.
@@ -61,10 +61,10 @@ Convx brings music discovery, playback, lyrics, and your library together in one
 - Import playlists from Spotify.
 - Connect Discord Rich Presence, Last.fm, music recognition, and Listen Together.
 
-### Convx interface
+### Sirilux interface
 
 - Frosted, refractive glass surfaces for menus, sheets, and floating controls.
-- Cupertino-style controls built for Convx's HIG and Android interaction patterns.
+- Cupertino-style controls built for Sirilux's HIG and Android interaction patterns.
 - Adaptive themes and layouts for phones and wider screens.
 
 ## Download
@@ -74,11 +74,11 @@ Convx brings music discovery, playback, lyrics, and your library together in one
 
 The project website is being reworked. Use GitHub Releases for downloads for now.
 
-Convx supports Android 8.0 (API 26) and later. Install APKs only from sources you trust. Android may ask you to allow installation from the app you used to download the APK.
+Sirilux supports Android 8.0 (API 26) and later. Install APKs only from sources you trust. Android may ask you to allow installation from the app you used to download the APK.
 
 ## Project structure
 
-Convx is a Gradle multi-module Android project. Keep code in the module that owns the capability, and use its existing public APIs when another module needs it.
+Sirilux is a Gradle multi-module Android project. Keep code in the module that owns the capability, and use its existing public APIs when another module needs it.
 
 | Path | Responsibility |
 | --- | --- |
@@ -126,9 +126,9 @@ AI agents should also follow the [Agent Contribution Guide](AGENT_CONTRIBUTION_G
 
 ## Legal
 
-Convx is an independent project and is not affiliated with, endorsed by, or connected to YouTube, Google, or their affiliates. Some features use unofficial third-party interfaces that may change or stop working. Users are responsible for following applicable laws and service terms.
+Sirilux is an independent project and is not affiliated with, endorsed by, or connected to YouTube, Google, or their affiliates. Some features use unofficial third-party interfaces that may change or stop working. Users are responsible for following applicable laws and service terms.
 
-Convx is licensed under the GNU General Public License v3.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE) for license and third-party attribution details.
+Sirilux is licensed under the GNU General Public License v3.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE) for license and third-party attribution details.
 
 ---
 
