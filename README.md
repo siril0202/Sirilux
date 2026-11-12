@@ -1,6 +1,6 @@
 # Sirilux  
 <div align="center">
-  <img src="assets/banner%20dark.png" width="1000" alt="Sirilux poster with the words Just Listen and a phone displaying the music player">
+  <img src="assets/logo.png" width="1000" alt="Sirilux poster with the words Just Listen and a phone displaying the music player">
   <h1>Sirilux</h1>
   <p><strong>An open-source Android music player with a calm, glass-inspired interface.</strong></p>
   <p>
